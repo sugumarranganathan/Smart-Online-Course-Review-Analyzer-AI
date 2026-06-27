@@ -159,27 +159,6 @@ Smart-Online-Course-Review-Analyzer-AI
 ├── README.md
 ```
 
----
-
-# ▶️ How to Run
-
-1. Clone this repository.
-2. Install the required libraries:
-
-```
-pip install -r requirements.txt
-```
-
-3. Start the application:
-
-```
-python app.py
-```
-
-4. Open the local Gradio URL in your browser.
-
----
-
 # 📷 Output
 
 The application allows users to:
