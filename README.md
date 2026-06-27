@@ -1,3 +1,10 @@
+# Online Course Reviews Topic Modeling Using Latent Dirichlet Allocation (LDA)
+
+https://colab.research.google.com/drive/12c6UEZ12VKQatyT-Zaix3M2ZyWUef32b#scrollTo=sEUs-1XNMfeT
+
+
+
+
 # 📚 Smart Online Course Review Analyzer AI
 
 ## 📌 Project Overview
