@@ -1,0 +1,8 @@
+gradio
+scikit-learn
+pandas
+numpy
+nltk
+wordcloud
+matplotlib
+pyLDAvis
